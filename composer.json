@@ -3,5 +3,8 @@
     "description": "a Ultimate Website with Moduler Package System from MRBH",
     "type": "project",
     "license": "MIT",
-    "require": {}
+    "require": {
+        "monolog/monolog": "^1.23",
+        "almasaeed2010/adminlte": "~2.4"
+    }
 }
